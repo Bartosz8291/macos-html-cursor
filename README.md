@@ -1,0 +1,2 @@
+# macos-html-cursor
+magic
